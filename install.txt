@@ -42,6 +42,7 @@ After install mpdplayer start automatic
 Web interface
 systemctl start mpdplayer
 http://127.0.0.1:8989/ui
+username : admin password : 10polonG
 
 6.
 Useful commands
